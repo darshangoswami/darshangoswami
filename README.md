@@ -3,7 +3,7 @@
 #### I'm a web developer/designer. 👨🏻‍💻 ⚡️<br/>When I'm not working on any projects, you will usually find me on a motorcycle trip clicking pictures along the way. 🏍 📸
 
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=darshangoswami&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=Darshan%27s%20GitHub%20Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darshangoswami&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=Darshan%27s%20GitHub%20Stats" />
 </a>
 
 <a href="#">
