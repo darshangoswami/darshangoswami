@@ -1,4 +1,8 @@
-### Hi there! 👋
+### Hi, I'm Darshan! 👋
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=darshangoswami&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=Darshan%27s%20GitHub%20Stats" />
+
+<img align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshangoswami&layout=compact&theme=tokyonight&hide_border=true" />
 
 
 <!--Here are some ideas to get you started:
