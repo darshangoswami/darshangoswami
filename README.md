@@ -2,14 +2,6 @@
 
 #### I'm a web developer/designer. 👨🏻‍💻 ⚡️<br/>When I'm not working on any projects, you will usually find me on a motorcycle trip clicking pictures along the way. 🏍 📸
 
-<a href="#">
-  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=darshangoswami&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=Darshan%27s%20GitHub%20Stats" />
-</a>
-
-<a href="#">
-  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshangoswami&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
 ## 🛠 Skills
 
 ### Languages
@@ -61,4 +53,12 @@
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+## 📈 Stats
 
+<a href="#">
+  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=darshangoswami&theme=tokyonight&show_icons=true&include_all_commits=false&count_private=true&hide_border=true&custom_title=Darshan%27s%20GitHub%20Stats" />
+</a>
+
+<a href="#">
+  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshangoswami&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
